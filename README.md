@@ -1,2 +1,4 @@
 # Parallel_parking
-nonlinear control and planning in robotics final project
+Nonlinear control and planning in robotics final project
+
+A* and MPC
